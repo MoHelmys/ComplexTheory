@@ -1,1 +1,7 @@
 Hello M
+Research in Algorithms and Complexity Theory includes determining the inherent difficulty of computational problems, classifying problems according to this inherent difficulty, and designing and analysing algorithms that use computational resources as efficiently as possible. Within this context, the Algorithms and Complexity Theory group at Oxford has particular interest in the following topics:
+
+algorithmic game theory and computational economics
+circuit complexity
+computational counting problems
+constraint satisfaction problems
